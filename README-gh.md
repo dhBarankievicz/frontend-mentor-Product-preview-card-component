@@ -31,8 +31,8 @@ O desafio consistia em construir um **cartão de visualização de produto** tot
 
 ### Links
 
-- **Solução no GitHub:** [Repositório no GitHub](https://github.com/seu-usuario/product-preview-card-component)
-- **Site ao Vivo:** [Veja o projeto ao vivo](https://seu-usuario.github.io/product-preview-card-component/)
+- **Solução no GitHub:** [Repositório no GitHub](https://github.com/frontend-mentor-projects-dhBarankievicz/Product-preview-card-component/)
+
 
 ## Meu Processo
 
